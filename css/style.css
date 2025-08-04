@@ -10,7 +10,7 @@ body {
 }
 
 .navbar .nav-item.active {
-  border-left: #444 3px solid;
+  border-bottom: #444 3px solid;
 }
 
 .carousel-item {
@@ -98,3 +98,4 @@ body {
   background: #000;
   color: #fff;
 }
+
